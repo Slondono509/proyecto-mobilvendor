@@ -1,0 +1,19 @@
+{
+    "name": "slondono/proyecto-mobilvendor",
+    "description": "Proyecto",
+    "authors": [
+      {
+        "name": "Santiago Londono",
+        "email": "slondono509@gmail.com"
+      }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "App\\": "app/"
+      },
+      "files": [
+        "app/helpers.php"
+      ]
+    }
+  }
